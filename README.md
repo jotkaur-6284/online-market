@@ -1,3 +1,55 @@
+
+
+## HOME PAGE(Online Marketing)
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/1.PNG?raw=true)
+
+---
+
+## LOGIN PAGE
+### If the user exists then only user can log in otherwise it will say "Please Signup"
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/2.PNG?raw=true)
+
+---
+
+
+## HOME PAGE AFTER USER LOGIN
+### When user login it will display the user icon and instead of signup it shows logout
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/3.PNG?raw=true)
+
+---
+
+
+## BUY PAGE
+### It will check first user is login or not if user is login then user can buy product otherwise "login first"
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/4.PNG?raw=true)
+
+---
+
+## BUY PAGE AFTER BUY PRODUCT
+### User can select a product and it will display the msg of Successfull buy
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/5.PNG?raw=true)
+
+---
+
+## SELL PAGE
+### If user is log in then user can select a product from device and can sell 
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/6.PNG?raw=true)
+
+---
+
+## SIGNUP PAGE
+### Signup page and the data of signup page will be saved in the MongoDB
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/7.PNG?raw=true)
+
+---
+
+## DATA BASE(mongo db)
+### The signup data will saved in the database
+![image](https://github.com/jotkaur-6284/online-market/blob/main/src/8.PNG?raw=true)
+
+---
+
+
 ![image](https://github.com/user-attachments/assets/f7496fb2-d4f8-4d45-b497-6dc9bcf71354)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,53 +121,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-## HOME PAGE(Online Marketing)
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/1.PNG?raw=true)
-
----
-
-## LOGIN PAGE
-# If the user exists then only user can log in otherwise it will say "Please Signup"
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/2.PNG?raw=true)
-
----
-
-
-## HOME PAGE AFTER USER LOGIN
-# When user login it will display the user icon and instead of signup it shows logout
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/3.PNG?raw=true)
-
----
-
-
-## BUY PAGE
-# It will check first user is login or not if user is login then user can buy product otherwise "login first"
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/4.PNG?raw=true)
-
----
-
-## BUY PAGE AFTER BUY PRODUCT
-# User can select a product and it will display the msg of Successfull buy
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/5.PNG?raw=true)
-
----
-
-## SELL PAGE
-# If user is log in then user can select a product from device and can sell 
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/6.PNG?raw=true)
-
----
-
-## SIGNUP PAGE
-# Signup page and the data of signup page will be saved in the MongoDB
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/7.PNG?raw=true)
-
----
-
-## DATA BASE(mongo db)
-# The signup data will saved in the database
-![image](https://github.com/jotkaur-6284/online-market/blob/main/src/8.PNG?raw=true)
-
----
