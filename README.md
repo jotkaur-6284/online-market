@@ -72,6 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## HOME PAGE(Online Marketing)
-![image](https://github.com/jotkaur-6284/rread/blob/main/public/1.PNG?raw=true)
+![image]([https://github.com/jotkaur-6284/rread/blob/main/public/1.PNG?raw=true](https://github.com/jotkaur-6284/online-market/blob/main/src/1.PNG))
 
 ---
